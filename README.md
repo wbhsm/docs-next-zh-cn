@@ -34,3 +34,4 @@ $ npm run serve # or yarn serve
 目前网站还处于集中翻译和校对的状态，急需大家多多支持！
 
 最新的文档/翻译贡献情况可以参阅 GitHub 提供的 [contributors](https://github.com/vuejs/docs-next-zh-cn/graphs/contributors) 页面。
+#1
